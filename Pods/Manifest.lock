@@ -1,0 +1,16 @@
+PODS:
+  - APLog (3.0.2.231019134014)
+
+DEPENDENCIES:
+  - APLog (= 3.0.2.231019134014)
+
+SPEC REPOS:
+  https://gitee.com/mpaas/podspecs:
+    - APLog
+
+SPEC CHECKSUMS:
+  APLog: ba809b47f2b24bfdc5a8eae7d2f872168a995ab5
+
+PODFILE CHECKSUM: e8ad9cdb6ec58da898c18e228700982eb52e5f3c
+
+COCOAPODS: 1.11.3

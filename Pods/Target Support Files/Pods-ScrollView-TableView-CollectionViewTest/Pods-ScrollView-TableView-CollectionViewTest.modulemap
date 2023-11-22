@@ -1,0 +1,6 @@
+framework module Pods_ScrollView_TableView_CollectionViewTest {
+  umbrella header "Pods-ScrollView-TableView-CollectionViewTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

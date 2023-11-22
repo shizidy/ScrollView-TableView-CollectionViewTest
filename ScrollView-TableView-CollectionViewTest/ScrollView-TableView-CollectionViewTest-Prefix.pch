@@ -1,0 +1,14 @@
+//
+//  ScrollView-TableView-CollectionViewTest-Prefix.pch
+//  ScrollView-TableView-CollectionViewTest
+//
+//  Created by wdyzmx on 2023/11/22.
+
+// MPAAS HEADERS BEGIN
+// This part is maintained by MPaaS plugin automatically. 
+#ifdef __OBJC__
+
+#import "ScrollView-TableView-CollectionViewTest-mPaaS-Headers.h"
+
+#endif
+// MPAAS HEADERS END
