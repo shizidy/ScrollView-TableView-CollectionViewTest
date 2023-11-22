@@ -41,6 +41,7 @@ IsFullScreen = kStatusBarHeight > 20;\
     // Do any additional setup after loading the view.
 }
 
+#pragma mark - setUI
 - (void)setUI {
     [self addAllButtonView];
     [self addHeaderMenuView];
